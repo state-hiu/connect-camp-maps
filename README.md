@@ -1,1 +1,1 @@
-# connect-camp-maps
+# jekyll-event-site

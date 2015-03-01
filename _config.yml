@@ -1,0 +1,8 @@
+baseurl: ''
+permalink: pretty
+exclude: [src, CNAME]
+markdown: rdiscount
+title: YALI Connect Camp Maps
+hashtag: jekyll-event
+email: jekyll-event@email.org
+twitter: jekyll-event-account

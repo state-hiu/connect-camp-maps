@@ -1,0 +1,48 @@
+---
+layout: default
+title: ''
+---
+
+<section class='hide-mobile contain'>
+  <div class='liner clearfix center fill-darken2 dark pin-top col12'>
+    <h2 class='pad2'>
+      {{ site.title }}, March 2015, Dar es Salaam.
+    </h2>
+  </div>
+  <ul class='slider clearfix pin-top col12'>
+    <li><img src='img/splash/1024x500.png' title='Slide 1' /></li>
+	  <li><img src='img/splash/1024x500.png' title='Slide 2' /></li>
+  </ul>
+</section>
+
+<section class='show-mobile fill-light center pad2 space-bottom2'>
+  <h2 class='space-bottom1'><a href='{{site.baseurl}}' target='_blank'>{{ site.title }}</a>!</h2>
+  <h3 class='quiet'>Jekyll Event Subtitle</h3>
+</section>
+
+<section class='hide-mobile clearfix limiter col12'>
+  <div class='pad4y'>
+    <h2>Jekyll Event Description</h2>
+  </div>
+
+  <div class='col6 margin3 space-bottom4'>
+    <div class='col12 pad4 center keyline-all space-bottom4 clearfix'>
+      <h3>Sign up for updates</h3>
+      <p class='quiet prose'>Keep up to date on the {{site.title}}</p>
+      <div><h2><a href="http://mailinglistlink.org/" target='_blank'>{{site.title}} mailing list</a></h2></div>
+
+
+    </div>
+  </div>
+</section>
+
+<script>
+$(function(){
+    $('.slider').bxSlider({
+        pager: false,
+        controls: true,
+        auto: true,
+        captions: true
+    });
+});
+</script>

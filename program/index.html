@@ -1,0 +1,62 @@
+---
+layout: default
+title: Program
+dates:
+  - id: wednesday
+    name: Wednesday, April 29
+  - id: summit
+    name: April 30 - May 2
+---
+
+<div class='fill-blue'>
+  <div class='liner clearfix center fill-darken3 dark col12'>
+    <h2 class='pad2'>HOT Summit Program</h2>
+  </div>
+</div>
+
+<div class='limiter pad4y clearfix'>
+
+
+{% for date in page.dates %}
+  {% if site.tags[date.id].size > 0 %}
+  <div class='pad2y {% unless forloop.index == 1 %}keyline-top{% endunless %}'>
+    <div class='limiter'>
+      <div class='col12 quiet space-bottom1'>
+        <h3 class='col11 pad2x'>
+          {{date.name}}
+        </h3>
+      </div>
+      <div class='col12 pad1y'>
+        {% for item in site.tags[date.id] order:ascending %}
+          <div class='col12 clearfix {% if item.highlight == true %}highlight{% endif %}'>
+            <div class='col12 pad2x'>
+              <div class='headline clearfix space-bottom1'>
+                <h2 class='col8'>
+                  <!-- <a href='{{item.permalink}}'> -->
+                    {{item.title}}
+                  <!-- </a> -->
+                </h2>
+                <div class='text-right space-bottom1'>{{item.time}}</div>
+                <div class='text-right quiet'>{{item.location}}</div>
+              </div>
+              <div class='prose schedule space-bottom2'>
+                {{item.excerpt}}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+
+<!--
+A table with sessions breakdown. See draft here
+We should note what food/meals are included
+We need to include side events, like the code sprints and partner’s events (MapTime)
+
+This does not need to be in place for site launch
+-->
