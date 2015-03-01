@@ -40,7 +40,7 @@
 </head>
 <body class='{% if page.url == "/index.html" %}front{% endif %}'>
 
-<nav class='pad2 fill-red site-navigation center space'>
+<nav class='pad2 fill-blue site-navigation center space'>
   <a class='strong {% if page.url == "{{site.baseurl}}/index.html" or page.url == "{{site.baseurl}}/" %}active{% endif %}' href='{{site.baseurl}}/'>Home</a>
   <a class='strong {% if page.url contains "session1" %}active{% endif %}' href='{{site.baseurl}}/sessions/'>Sessions</a>
   <a class='strong {% if page.url contains "resources" %}active{% endif %}' href='{{site.baseurl}}/resources/'>Resources</a>
@@ -49,7 +49,7 @@
 </nav>
 
 
-<header class='clearfix splash center pad4y'>
+<header class='clearfix splash center'>
   <a href='{{site.baseurl}}' class='block'>
     <img id='logo' src='{{site.baseurl}}/img/logo.png' alt='HOT Summit' />
   </a>
@@ -68,8 +68,9 @@
       <h2 class='space-bottom1'>Participating Groups</h2>
 
       <nav class='space-bottom2'>
-        <a href='http://group1.org/' target='_blank'><img class='participating' src='{{site.baseurl}}/img/group1_logo.png' alt='Group1' /></a>
-        <a href='http://group2.org/' target='_blank'><img class='participating' src='{{site.baseurl}}/img/group2_logo.png' alt='Group2' /></a>
+        <a href='http://yali.state.gov/' target='_blank'><img class='participating' src='{{site.baseurl}}/img/yali_network_banner.png' alt='YALI' /></a><br/>
+        <a href='http://www.ohio.edu/' target='_blank'><img class='participating' src='{{site.baseurl}}/img/ouws_front_0309_ohiogr.gif' alt='Ohio University' /></a><br/>
+        <a href='http://mapgive.state.gov/' target='_blank'><img class='participating' src='{{site.baseurl}}/img/mapgive.png' alt='MapGive' /></a>
       </nav>
 
       <h3>Get in touch to get involved</h3>
@@ -87,7 +88,7 @@
   <div class='fill-darken3 pad2y col12'>
     <div class='limiter'>
       <p class='small hide-mobile'>
-        <a href="{{site.baseurl}}/codeofconduct/">Code of Conduct</a> | <a href='{{site.baseurl}}'>{{site.title}}</a> | <a href='https://twitter.com/search?q=%23{{site.hashtag}}&src=typd' target='_blank'>#{{site.hashtag}}</a><!-- | Photo credits: Photo Credits-->
+       <!-- <a href="{{site.baseurl}}/codeofconduct/">Code of Conduct</a> | --> <a href='{{site.baseurl}}'>{{site.title}}</a> | <a href='https://twitter.com/search?q=%23{{site.hashtag}}&src=typd' target='_blank'>#{{site.hashtag}}</a><!-- | Photo credits: Photo Credits-->
     </div>
   </div>
 </footer>

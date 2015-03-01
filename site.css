@@ -1,12 +1,12 @@
 /* Base Overrides
 ---------------------------------------------- */
 .space > * { margin-right:10px; }
-.fill-blue { background-color:#31b2d0; }
+.fill-blue { background-color:#456596; }
 .fill-lightblue { background-color:#d7f0f6; }
 .fill-dark { background-color:#202020; }
 .fill-brown { background-color:#d7a64a; }
 .fill-green { background-color:#8cc250; }
-.fill-red { background-color:#d73f3f; }
+.fill-red { background-color:#cb133f; }
 
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Kreon', serif;
@@ -36,12 +36,12 @@ p {
 
 a,
 .dark a,
-a.dark  { color:#d73f3f; font-weight:700; }
+a.dark  { color:#cb133f; font-weight:700; }
 
 .dark a:hover,
 a.dark:hover,
 a.active,
-a:hover { color:#68c7dd; }
+a:hover { color:#26abe3; }
 
 .schedule table {
   border-width:0;
@@ -95,8 +95,7 @@ a:hover { color:#68c7dd; }
   }
 .site-navigation a.active,
 .site-navigation a.active:hover {
-  color:#000;
-  border-bottom:3px solid #000;
+  border-bottom:3px solid #fff;
   }
 
 header .logo {
