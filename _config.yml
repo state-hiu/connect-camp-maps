@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: '/connect-camp-maps'
 permalink: pretty
 exclude: [src, CNAME]
 markdown: rdiscount
