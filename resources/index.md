@@ -4,68 +4,83 @@ title: Resources
 published: true
 ---
 
+<a name="getting-started"></a>
 ## Getting Started
 
-Prior to the event, do some basic introduction and sharing of resources, and open discussion. 
+Welcome to Community Mapping! Here are some first steps to get started before the ConnectCamp.
 
 <!-- This may be most easily organized by setting up a quick website, which could be done by MapGive team. (Is there a ConnectCamp website? No, but there are two sites we can embed info on: yali.state.gov and an internal site for MWF alumni (off of the alumni.state.gov site)) -->
 
-### Share materials
+### Start Learning
 
-Share website, tutorials, any other information appropriate prior to event.
+Read and watch introductions on the MapGive Website.
 
-### Registration
+* [Why Map?](http://mapgive.state.gov/why-map/)
+* [Learn to Map](http://mapgive.state.gov/learn-to-map/)
 
-Have everyone register for an OSM account. It takes just a few minutes, but better to get this out of the way beforehand if possible.
+### Register for an OpenStreetMap account
 
-### Walkthrough on iD
+If there's one thing you do before the Camp, register for an OpenStreetMap account. It takes just a few minutes.
 
-The OpenStreetMap editor is called “iD”. The first time you use it, it will invite to take a “walk through” tutorial of the process.
+* [Sign Up](https://www.openstreetmap.org/user/new)
 
-### Start talking
+Detailed instructions on registration in part 1 of "Learn to Map".
 
-If there is a mailing list or group, start socializing mapping ideas and connecting with each other.
+### Walkthrough the iD editor
+
+The OpenStreetMap editor is called “iD”. On OpenStreetMap.org, search for your home town, and zoom in. Click "Edit". The iD editor will take you through a tutorial.
+
+More on this first step at [OpenStreetMap Welcome](https://www.openstreetmap.org/welcome)
+
+### Read More!
+
+There are many more resources on this page, Case Studies and Guides. Dig in!
 
 ## Resources
 
+<!--
 ### In Person
 
 Prior to ConnectCamp, we may be able to find folks from the local OpenStreetMap, to share the process directly with facilitators. We could also arrange to do this via Hangout.
+-->
 
 ### MapGive
 
 This is the best place to start to understand the why and how of mapping.
 
-http://mapgive.state.gov/why-map/
-http://mapgive.state.gov/learn-to-map/
+[Why Map?](http://mapgive.state.gov/why-map/)
+[Learn to Map](http://mapgive.state.gov/learn-to-map/)
 
 ### Geospatial Revolution Video on Map Kibera
 
-A video piece on Map Kibera, which shows the process in detail in the community.
-https://www.youtube.com/watch?v=9F7z9LLYxf8&feature=youtu.be&t=10m40s
+A video piece on [Map Kibera](http://mapkibera.org/). Map Kibera works with OpenStreetMap in the Kibera slum in Nairobi, Kenya. This video shows the process in detail in the community.
+
+[Geospatial Revolution - Map Kibera](https://www.youtube.com/watch?v=9F7z9LLYxf8&feature=youtu.be&t=10m40s)
 
 ### LearnOSM
 
-The best self-learning guide to OpenStreetMap.
-http://learnosm.org/en/
+The best, comprehensive, self-learning guide to OpenStreetMap is LearnOSM.
+
+[LearnOSM](http://learnosm.org/en/)
 
 ### TeachOSM
 
-A new, and growing, set of resources for educators to bring OSM into the classroom.
-http://teachosm.org/en/
+TeachOSM is new, and growing, set of resources for educators to bring OSM into the classroom.
+
+[TeachOSM](http://teachosm.org/en/)
 
 ### OSMGeoWeek
 
 MapGive helped coordinate OSMGeoWeek in November. This featured 33 events across the globe, introducing OSM and working on a variety of projects. We developed an event planning guide, which has some helpful logistical tips.
 
-http://osmgeoweek.org/
-http://osmgeoweek.org/plan/event-planning/
+[OSMGeoWeek](http://osmgeoweek.org/)
+[OSMGeoWeek Event Planning](http://osmgeoweek.org/plan/event-planning/)
 
 ### OpenCities Guide
 
-The OpenCities Project is organized by the World Bank GFDRR. They incorporate OpenStreetMap into efforts to address disaster resilience.
+The OpenCities Project is organized by the World Bank GFDRR. They incorporate OpenStreetMap into efforts to address disaster resilience. The OpenCities Guide goes into great depth on setting up a project using OSM.
 
-http://www.worldbank.org/en/region/sar/publication/planning-open-cities-mapping-project
+[OpenCities Guide](http://www.worldbank.org/en/region/sar/publication/planning-open-cities-mapping-project)
 
 <a name="case-studies"></a>
 ### Case Studies
@@ -84,26 +99,26 @@ These case studies illustrate several examples of how OSM has been put to use in
 
 ## Post Event Support
 
-We can potentially offer several kinds of post-event support.
+MapGive will provide several kinds of support after ConnectCamp.
 
-### Google Hangout
+### Webinars
 
-Schedule  Google Hangouts between fellows and MapGive. Based on interest, we can present technical or programmatic concepts. Or simple Q/A
+We can schedule Google Hangouts between YALI Mendela Fellows and MapGive. Based on interest, we can present technical or programmatic concepts, or simple Q/A.
 
 ### Individual Mentorship
 
-For fellows seriously interested to pursue projects, set up mentorship relationship for MapGive to help in project development and technical issues.
+For fellows seriously interested to pursue projects, we can set up mentorship relationship for MapGive to help in project development and technical issues.
 
 ### Imagery
 
-If imagery is lacking in their project area, arrange for imagery through MapGive.
+If satellite imagery is lacking in a project area, additional imagery can be arranged through MapGive.
 
-### Stats and Visualizations
+Learn more about [Imagery to the Crowd](http://mapgive.state.gov/ittc/)
 
-Analysis products of community mapping projects.
+### Statistics and Visualizations
+
+MapGive can build analysis/visualization products of community mapping projects.
 
 ### Website
 
-If useful, continue to update website with YALI community mapping developments.
-
-
+This website can update with developments from YALI community mapping projects.
