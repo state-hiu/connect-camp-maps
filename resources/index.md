@@ -101,6 +101,10 @@ These case studies illustrate several examples of how OSM has been put to use in
 
 MapGive will provide several kinds of support after ConnectCamp.
 
+### Results
+
+* [Map of YALI edits](http://resultmaps.neis-one.org/osm-changesets?comment=yali)
+
 ### Webinars
 
 We can schedule Google Hangouts between YALI Mendela Fellows and MapGive. Based on interest, we can present technical or programmatic concepts, or simple Q/A.
