@@ -18,8 +18,8 @@ _20 minutes_
 
 Explain the basics of OpenStreetMap and present an inspiring example. This may be an in-person presentation, remote presentation via Hangout, videos, or a combination.
 
-[Why Map Video?](http://mapgive.state.gov/why-map/) is a good starting point.
-
+* [Why Map Video?](http://mapgive.state.gov/why-map/) is a good starting point.
+* [Mapping Day Community Mapping Story]({{site.baseurl}}/docs/YALI_Community_Mapping_Story.pdf)
 
 ### Map With Your Feet + Drawn Map
 
@@ -27,7 +27,7 @@ _10 minutes_
 
 Mapping with your feet is a physical ice breaker, which introduces basic geospatial concepts. Participants are asked arrange themselves in the room according to where they come from. Facilitators should only provide minimal help. This takes a large enough open space for everyone to move about. Participants themselves need to figure out which way is “up”, how they are positioned relative to each other, etc. There will be lots of discussion, bumping of shoulders, repositioning. When everyone is stable, do a flip chart map drawing of the participants, and tape to the wall. We’ve made a map!
 
-### Sit and Draw a Map of Your Place
+### Draw a Map of Your Place
 
 _10 minutes_
 
@@ -47,6 +47,7 @@ Technical session on tablet devices. Participants log in to OSM; search and brow
 
 __Important__: Make sure any changesets have #YALI in the comments so we can track and visualize.
 
+[Hands on OSM / iD]({{site.baseurl}}/docs/YALI_Hands_on_OSM_ID.pdf)
 
 # Field Visits
 
