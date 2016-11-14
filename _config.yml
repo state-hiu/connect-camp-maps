@@ -1,7 +1,7 @@
 baseurl: '/connect-camp-maps'
 permalink: pretty
 exclude: [src, CNAME]
-markdown: rdiscount
+#markdown: rdiscount
 title: YALI Connect Camp Maps
 hashtag: YALI
 email: connect.camp.maps@gmail.com
